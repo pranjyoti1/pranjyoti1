@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\GetAPIDataController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/getdata',[GetAPIDataController::class, 'getData']);
+Route::get('/ncsdata',[GetAPIDataController::class, 'ncsdata']);
+

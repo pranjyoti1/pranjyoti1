@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateTerritoryTypesTable extends Migration
+class CreateCastesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,10 @@ class CreateTerritoryTypesTable extends Migration
      */
     public function up()
     {
-        Schema::create('territory_types', function (Blueprint $table) {
+        Schema::create('castes', function (Blueprint $table) {
             $table->id();
-            $table->integer('territory_id');
-            $table->string('description');
+            $table->string('caste_id');
+            $table->string('caste_description');
             $table->timestamps();
         });
     }
@@ -28,6 +28,6 @@ class CreateTerritoryTypesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('territory_types');
+        Schema::dropIfExists('castes');
     }
 }

@@ -1,0 +1,896 @@
+[
+    {
+        "_id": { "$oid": "619b336a26b374ce9ac41bcb" },
+        "initiated_data": {
+            "department_id": "2193",
+            "department_name": "Department of Skill, Employment and Entrepreneurship",
+            "service_id": "18590003",
+            "service_name": "Registration of employment seeker in Employment Exchange  for AADHAAR Based",
+            "appl_id": "18438963",
+            "appl_ref_no": "RTPS-REESA/2021/00691",
+            "no_of_attachment": 4,
+            "submission_mode_id": 112,
+            "submission_mode": "online",
+            "applied_by": "dasharsha553@gmail.com",
+            "submission_location": "District Employment Exchange- Barpeta",
+            "submission_date": { "$date": "2021-09-28T08:42:48Z" },
+            "payment_mode": null,
+            "reference_no": null,
+            "payment_date": null,
+            "amount": null,
+            "registration_id": "",
+            "base_service_id": "1859",
+            "version_no": 3,
+            "sub_version": 0,
+            "due_date": "2021-09-29",
+            "user_id": 16128555,
+            "user_name": "DHRUBAJYOTI DAS",
+            "enclosure_details": [
+                { "4048": 7884 },
+                { "6883": 8058 },
+                { "7353": 8190 },
+                { "7617": 7618 }
+            ],
+            "attribute_details": {
+                "applicant_name": "DHRUBAJYOTI DAS",
+                "applicant_gender": "Male",
+                "mobile_number": "7086307879",
+                "e-mail": "dasharsha553@gmail.com",
+                "fathers_name": "DURGESWAR DAS",
+                "caste": "SC",
+                "mothers_name": "DULUMANI DAS",
+                "whether_ex-servicemen": "No",
+                "prominent_identification_mark": "NA",
+                "email_id": "dasharsha553@gmail.com",
+                "date_of_birth": "22/06/1999",
+                "fathers_name__guardians_name": "DURGESWAR DAS",
+                "contact_no": "7086307879",
+                "unique_identification_no": "GBC0320663",
+                "marital_status": "Single",
+                "occupation_type": "SELF",
+                "gender_jobseeker": "Male",
+                "religion": "Hinduism",
+                "unique_identification_type": "Voter's Identity Card",
+                "occupation": "Other",
+                "passport_photo": "/opt/app_data/rtps/prod/ApplicantImage/18/18590003/4836763/48367631632818074320_7328_132869.jpg",
+                "height__in_cm": "164",
+                "weight__kgs": "54",
+                "eye_sight": "OK",
+                "chest__inch": "38",
+                "are_you_differently_abled__pwd": "No",
+                "highest_educational_level": "10th Pass",
+                "declaration": "I agree to abide by the terms and conditions",
+                "signature": "/opt/app_data/rtps/prod/ApplicantImage/18/18590003/4836763/48367631632818074322_7328_132912.jpg",
+                "current_employment_status": "Employed - Part time",
+                "post_office_p": "PATBAUSHI",
+                "residence": "Rural",
+                "pin_code_p": "781314",
+                "sub-division": "Barpeta",
+                "revenue_circle": "Barpeta",
+                "police_station_p": "BARPETA",
+                "district_p": "BARPETA",
+                "name_of_the_house_apartment_p": "HOUSE NO 118",
+                "house_no_apartment_no_p": "HOUSE NO 118",
+                "building_no_block_no__p": "BARPETA",
+                "address__locality_street_etc___p": "VILL-PATBAUSHI PO-PATBAUSHI PS-BARPETA DIST-BARPETA PIN-781314",
+                "vill_town_ward_city_p": "PATBAUSHI",
+                "police_station": "BARPETA",
+                "same_as_permanent_address": "Yes",
+                "name_of_the_house_apartment": "HOUSE NO 118",
+                "house_no_apartment_no": "HOUSE NO 118",
+                "building_no_block_no": "BARPETA",
+                "address__locality_street_etc": "VILL-PATBAUSHI PO-PATBAUSHI PS-BARPETA DIST-BARPETA PIN-781314",
+                "vill_town_ward_city": "PATBAUSHI",
+                "post_office": "PATBAUSHI",
+                "pin_code": "781314",
+                "district": "BARPETA",
+                "employment_exchange": "District Employment Exchange- Barpeta",
+                "lgd_employment_exchange": "District Employment Exchange- Barpeta",
+                "renewal_date": "27/09/2024",
+                "aadhaar_number___virtual_id": "01003016KwF/G6UaiJ3sSeAmOYRjENJm/C474LCz1NTl8fhcWbES/uUD/IbIh2semZmVLTjj",
+                "full_name_as_in_aadhaar_card": "DHRUBAJYOTI DAS",
+                "state__only_domicile_of_assam_can_apply": "Assam",
+                "registration_no": "5231604/09/2021",
+                "registration_date": "28/09/2021",
+                "highest_examination_passed": "10th Pass",
+                "education_qualification": [
+                    {
+                        "date_of_passing": "08/08/2017",
+                        "course__major__subjects": "",
+                        "examination_passed": "10th Pass",
+                        "class__division": "3rd",
+                        "board__university": "SEBA",
+                        "registration_no": "2016030100055",
+                        "percentage_of_marks": "36.83",
+                        "other_examination_name": "",
+                        "major__elective_subject": "",
+                        "subjects__other_subjects": "ENGLISH ASSAMESE SOCIAL SCIENCE GENERAL SCIENCE GENERAL MATHEMATICS HINDI",
+                        "institution__school__college": "BARPETA TOWN HIGH SCHOOL"
+                    }
+                ],
+                "qualification": [
+                    {
+                        "date_of_registration": "28/09/2021",
+                        "qualification": "10th Pass"
+                    }
+                ],
+                "other_qualification_trainings_courses": [
+                    {
+                        "date_of_passing": "",
+                        "duration_in_months": "",
+                        "certificate_name": "",
+                        "issued_by": ""
+                    }
+                ],
+                "skill_qualification": [
+                    {
+                        "sector": "",
+                        "course__job_role": "",
+                        "exam__diploma__certificate": "",
+                        "duration": "",
+                        "certificate_id": "",
+                        "engagement": ""
+                    }
+                ],
+                "work_experience": [
+                    {
+                        "from": "",
+                        "to": "",
+                        "industry__sector": "",
+                        "functional_area": "",
+                        "nature_of_work": "",
+                        "functional_roles": "",
+                        "other_functional_roles": "",
+                        "employer": "",
+                        "duration": "",
+                        "other_industry__sector": "",
+                        "other_functional_area": "",
+                        "highest_designation": "",
+                        "last_salary_drawn": ""
+                    }
+                ],
+                "languages_known": [
+                    { "options": "Speak", "language": "ASSAMESE" }
+                ]
+            },
+            "submission_date_str": "28-09-2021",
+            "pit": 0,
+            "pbt": 0,
+            "dit": 1,
+            "dbt": 0,
+            "rit": 0,
+            "rbt": 0,
+            "execution_date_str": "28-09-2021",
+            "service_timeline": "1",
+            "appl_status": "D",
+            "district": "N/A",
+            "district_code": "0"
+        },
+        "execution_data": [
+            {
+                "task_details": {
+                    "task_name": "AUTO_DELIVER",
+                    "executed_time": { "$date": "2021-09-28T08:42:48Z" },
+                    "received_time": { "$date": "2021-09-28T08:42:48Z" }
+                },
+                "official_form_details": { "action": "Deliver" },
+                "applicant_task_details": null
+            }
+        ]
+    },
+    {
+        "_id": { "$oid": "619b336a26b374ce9ac41bd1" },
+        "initiated_data": {
+            "department_id": "2193",
+            "department_name": "Department of Skill, Employment and Entrepreneurship",
+            "service_id": "18590003",
+            "service_name": "Registration of employment seeker in Employment Exchange  for AADHAAR Based",
+            "appl_id": "18438992",
+            "appl_ref_no": "RTPS-REESA/2021/00697",
+            "no_of_attachment": 4,
+            "submission_mode_id": 112,
+            "submission_mode": "online",
+            "applied_by": "sonowalnilutpal8@gmail.com",
+            "submission_location": "District Employment Exchange- Dibrugarh",
+            "submission_date": { "$date": "2021-09-28T08:46:56Z" },
+            "payment_mode": null,
+            "reference_no": null,
+            "payment_date": null,
+            "amount": null,
+            "registration_id": "",
+            "base_service_id": "1859",
+            "version_no": 3,
+            "sub_version": 0,
+            "due_date": "2021-09-29",
+            "user_id": 16128271,
+            "user_name": "NILUTPAL SONOWAL",
+            "enclosure_details": [
+                { "4048": 7884 },
+                { "6883": 8058 },
+                { "7353": 8190 },
+                { "7617": 7618 }
+            ],
+            "attribute_details": {
+                "applicant_name": "NILUTPAL SONOWAL",
+                "applicant_gender": "Male",
+                "mobile_number": "7086139542",
+                "e-mail": "sonowalnilutpal8@gmail.com",
+                "fathers_name": "MONUJ SONOWAL",
+                "caste": "ST(P)",
+                "mothers_name": "REENAMONI SONOWAL",
+                "whether_ex-servicemen": "No",
+                "prominent_identification_mark": "NIL",
+                "email_id": "sonowalnilutpal8@gmail.com",
+                "date_of_birth": "21/01/2001",
+                "fathers_name__guardians_name": "MONUJ SONOWAL",
+                "contact_no": "7086139542",
+                "marital_status": "Single",
+                "gender_jobseeker": "Male",
+                "religion": "Hinduism",
+                "occupation": "Student",
+                "passport_photo": "/opt/app_data/rtps/prod/ApplicantImage/18/18590003/4836797/48367971632818641670_7328_132869.jpg",
+                "height__in_cm": "167",
+                "weight__kgs": "54",
+                "chest__inch": "83",
+                "are_you_differently_abled__pwd": "No",
+                "highest_educational_level": "12th Pass",
+                "declaration": "I agree to abide by the terms and conditions",
+                "signature": "/opt/app_data/rtps/prod/ApplicantImage/18/18590003/4836797/48367971632818641673_7328_132912.jpg",
+                "current_employment_status": "Unemployed",
+                "post_office_p": "KOLOWLOWA",
+                "residence": "Rural",
+                "pin_code_p": "785676",
+                "sub-division": "Dibrugarh",
+                "revenue_circle": "Moran",
+                "police_station_p": "KHOWANG",
+                "district_p": "DIBRUGARH",
+                "vill_town_ward_city_p": "KOLOWLOWA GAON",
+                "police_station": "KHOWANG",
+                "same_as_permanent_address": "Yes",
+                "vill_town_ward_city": "KOLOWLOWA GAON",
+                "post_office": "KOLOWLOWA",
+                "pin_code": "785676",
+                "district": "DIBRUGARH",
+                "employment_exchange": "District Employment Exchange- Dibrugarh",
+                "lgd_employment_exchange": "District Employment Exchange- Dibrugarh",
+                "renewal_date": "27/09/2024",
+                "aadhaar_number___virtual_id": "01003016ujK2WorMFD09zQWSt3BLnOvTkMFXLUxcU6NSe81VeySxyEq+x10DV9sllP3TiNA/",
+                "full_name_as_in_aadhaar_card": "NILUTPAL SONOWAL",
+                "state__only_domicile_of_assam_can_apply": "Assam",
+                "registration_no": "7874888/09/2021",
+                "registration_date": "28/09/2021",
+                "highest_examination_passed": "12th Arts",
+                "education_qualification": [
+                    {
+                        "date_of_passing": "25/05/2019",
+                        "course__major__subjects": "",
+                        "examination_passed": "12th",
+                        "class__division": "3rd",
+                        "board__university": "AHSEC",
+                        "registration_no": "068260/2017-18",
+                        "percentage_of_marks": "37.8",
+                        "other_examination_name": "",
+                        "major__elective_subject": "",
+                        "subjects__other_subjects": "ENGLISH,ASSAMESE,ECONOMICS,EDUCATION,SOCIOLOGY,POLITICAL SCIENCE",
+                        "institution__school__college": "KHOWANG COLLEGE"
+                    }
+                ],
+                "qualification": [
+                    {
+                        "date_of_registration": "28/09/2021",
+                        "qualification": "12th Arts"
+                    }
+                ],
+                "other_qualification_trainings_courses": [
+                    {
+                        "date_of_passing": "",
+                        "duration_in_months": "",
+                        "certificate_name": "",
+                        "issued_by": ""
+                    }
+                ],
+                "skill_qualification": [
+                    {
+                        "sector": "",
+                        "course__job_role": "",
+                        "exam__diploma__certificate": "",
+                        "duration": "",
+                        "certificate_id": "",
+                        "engagement": ""
+                    }
+                ],
+                "work_experience": [
+                    {
+                        "from": "",
+                        "to": "",
+                        "industry__sector": "",
+                        "functional_area": "",
+                        "nature_of_work": "",
+                        "functional_roles": "",
+                        "other_functional_roles": "",
+                        "employer": "",
+                        "duration": "",
+                        "other_industry__sector": "",
+                        "other_functional_area": "",
+                        "highest_designation": "",
+                        "last_salary_drawn": ""
+                    }
+                ],
+                "languages_known": [
+                    { "options": "Read", "language": "ASSAMESE" },
+                    { "options": "Speak", "language": "ENGLISH" },
+                    { "options": "Speak", "language": "HINDI" }
+                ]
+            },
+            "submission_date_str": "28-09-2021",
+            "pit": 0,
+            "pbt": 0,
+            "dit": 1,
+            "dbt": 0,
+            "rit": 0,
+            "rbt": 0,
+            "execution_date_str": "28-09-2021",
+            "service_timeline": "1",
+            "appl_status": "D",
+            "district": "N/A",
+            "district_code": "0"
+        },
+        "execution_data": [
+            {
+                "task_details": {
+                    "task_name": "AUTO_DELIVER",
+                    "executed_time": { "$date": "2021-09-28T08:46:56Z" },
+                    "received_time": { "$date": "2021-09-28T08:46:56Z" }
+                },
+                "official_form_details": { "action": "Deliver" },
+                "applicant_task_details": null
+            }
+        ]
+    },
+    {
+        "_id": { "$oid": "619b336a26b374ce9ac41bd4" },
+        "initiated_data": {
+            "department_id": "2193",
+            "department_name": "Department of Skill, Employment and Entrepreneurship",
+            "service_id": "18590003",
+            "service_name": "Registration of employment seeker in Employment Exchange  for AADHAAR Based",
+            "appl_id": "18438554",
+            "appl_ref_no": "RTPS-REESA/2021/00549",
+            "no_of_attachment": 6,
+            "submission_mode_id": 112,
+            "submission_mode": "online",
+            "applied_by": "jupadhyaya35@gmail.com",
+            "submission_location": "District Employment Exchange- Tezpur",
+            "submission_date": { "$date": "2021-09-28T08:51:14Z" },
+            "payment_mode": null,
+            "reference_no": null,
+            "payment_date": null,
+            "amount": null,
+            "registration_id": "",
+            "base_service_id": "1859",
+            "version_no": 3,
+            "sub_version": 0,
+            "due_date": "2021-09-29",
+            "user_id": 16126594,
+            "user_name": "JUBARAJ UPADHYAYA",
+            "enclosure_details": [
+                { "4048": 7884 },
+                { "6883": 8058 },
+                { "7353": 8190 },
+                { "7788": 7789 },
+                { "8011": 8012 },
+                { "8013": 7876 }
+            ],
+            "attribute_details": {
+                "applicant_name": "Jubaraj Upadhyaya",
+                "applicant_gender": "Male",
+                "mobile_number": "8259823981",
+                "e-mail": "jupadhyaya35@gmail.com",
+                "fathers_name": "Rudra Upadhyaya",
+                "caste": "General",
+                "mothers_name": "Bina Devi",
+                "whether_ex-servicemen": "No",
+                "economically_weaker_section": "No",
+                "prominent_identification_mark": "Small black mole in nose",
+                "email_id": "jupadhyaya35@gmail.com",
+                "date_of_birth": "21/07/1992",
+                "fathers_name__guardians_name": "Rudra Upadhyaya",
+                "contact_no": "8259823981",
+                "unique_identification_no": "CFN1432833",
+                "marital_status": "Married",
+                "occupation_type": "Private Job",
+                "gender_jobseeker": "Male",
+                "religion": "Hinduism",
+                "unique_identification_type": "Voter's Identity Card",
+                "occupation": "Other",
+                "passport_photo": "/opt/app_data/rtps/prod/ApplicantImage/18/18590003/4836212/48362121632818912949_7328_132869.jpg",
+                "height__in_cm": "167",
+                "weight__kgs": "65",
+                "eye_sight": "20/20",
+                "chest__inch": "38",
+                "are_you_differently_abled__pwd": "No",
+                "highest_educational_level": "Graduate",
+                "number_of_pages_to_be_printed": "1",
+                "number_of_pages_to_be_scanned": "1",
+                "total_printing_charge": "10",
+                "total_scanning_charge": "5",
+                "declaration": "I agree to abide by the terms and conditions",
+                "signature": "/opt/app_data/rtps/prod/ApplicantImage/18/18590003/4836212/48362121632818912951_7328_132912.jpg",
+                "current_employment_status": "Employed - Fulltime Private",
+                "months": "6",
+                "years": "5",
+                "post_office_p": "Garubandha",
+                "residence": "Rural",
+                "pin_code_p": "784506",
+                "sub-division": "Dhekiajuli",
+                "revenue_circle": "Thelamara",
+                "police_station_p": "Missamari",
+                "district_p": "SONITPUR",
+                "vill_town_ward_city_p": "Dhekipelowa bangali Gaon",
+                "police_station": "Missamari",
+                "same_as_permanent_address": "Yes",
+                "vill_town_ward_city": "Dhekipelowa bangali Gaon",
+                "post_office": "Garubandha",
+                "pin_code": "784506",
+                "district": "SONITPUR",
+                "job_preference_key_skills": "Monitoring new employees & complete their joining formalities, Maintain personnel files of employee",
+                "employment_exchange": "District Employment Exchange- Tezpur",
+                "lgd_employment_exchange": "District Employment Exchange- Tezpur",
+                "renewal_date": "27/09/2024",
+                "aadhaar_number___virtual_id": "01003016zQeUUAbEJWoCgAKQf4QVe+AylYdDIdI8GJOVxC8aWrCSnV/77uROIEOkLiwQUMkj",
+                "full_name_as_in_aadhaar_card": "Jubaraj Upadhyaya",
+                "state__only_domicile_of_assam_can_apply": "Assam",
+                "registration_no": "9997637/09/2021",
+                "registration_date": "28/09/2021",
+                "highest_examination_passed": "B. A. (Bachelor of Arts)",
+                "education_qualification": [
+                    {
+                        "date_of_passing": "16/09/2021",
+                        "course__major__subjects": "",
+                        "examination_passed": "2106",
+                        "class__division": "3rd",
+                        "board__university": "Gauhati University",
+                        "registration_no": "A-11228, 0176",
+                        "percentage_of_marks": "37.5",
+                        "other_examination_name": "",
+                        "major__elective_subject": "Political",
+                        "subjects__other_subjects": "Education",
+                        "institution__school__college": "L.O.K.D College"
+                    },
+                    {
+                        "date_of_passing": "20/05/2011",
+                        "course__major__subjects": "",
+                        "examination_passed": "2012",
+                        "class__division": "",
+                        "board__university": "AHSEC",
+                        "registration_no": "0719-10202",
+                        "percentage_of_marks": "",
+                        "other_examination_name": "",
+                        "major__elective_subject": "Political",
+                        "subjects__other_subjects": "Assamese",
+                        "institution__school__college": "Missamari Junior College"
+                    }
+                ],
+                "qualification": [
+                    {
+                        "date_of_registration": "28/09/2021",
+                        "qualification": ""
+                    }
+                ],
+                "other_qualification_trainings_courses": [
+                    {
+                        "date_of_passing": "31/05/2006",
+                        "duration_in_months": "6 Month",
+                        "certificate_name": "Computer Literacy Course",
+                        "issued_by": "KV Missamari"
+                    }
+                ],
+                "skill_qualification": [
+                    {
+                        "sector": "",
+                        "course__job_role": "",
+                        "exam__diploma__certificate": "",
+                        "duration": "",
+                        "certificate_id": "",
+                        "engagement": ""
+                    }
+                ],
+                "work_experience": [
+                    {
+                        "from": "15/02/2016",
+                        "to": "30/09/2021",
+                        "industry__sector": "Infrastructure",
+                        "functional_area": "Human Resource",
+                        "nature_of_work": "Full time",
+                        "functional_roles": "Executive",
+                        "other_functional_roles": "",
+                        "employer": "TK Engineering Consortium Pvt. Ltd.",
+                        "duration": "67",
+                        "other_industry__sector": "Road Construction",
+                        "other_functional_area": "",
+                        "highest_designation": "Executive",
+                        "last_salary_drawn": "25000"
+                    }
+                ],
+                "languages_known": [
+                    { "options": "Speak", "language": "Assamese" },
+                    { "options": "Speak", "language": "Hindi" },
+                    { "options": "Read", "language": "Bangali" },
+                    { "options": "Write", "language": "English" }
+                ]
+            },
+            "submission_date_str": "28-09-2021",
+            "pit": 0,
+            "pbt": 0,
+            "dit": 1,
+            "dbt": 0,
+            "rit": 0,
+            "rbt": 0,
+            "execution_date_str": "28-09-2021",
+            "service_timeline": "1",
+            "appl_status": "D",
+            "district": "N/A",
+            "district_code": "0"
+        },
+        "execution_data": [
+            {
+                "task_details": {
+                    "task_name": "AUTO_DELIVER",
+                    "executed_time": { "$date": "2021-09-28T08:51:14Z" },
+                    "received_time": { "$date": "2021-09-28T08:51:14Z" }
+                },
+                "official_form_details": { "action": "Deliver" },
+                "applicant_task_details": null
+            }
+        ]
+    },
+    {
+        "_id": { "$oid": "619b336a26b374ce9ac41bda" },
+        "initiated_data": {
+            "department_id": "2193",
+            "department_name": "Department of Skill, Employment and Entrepreneurship",
+            "service_id": "18590003",
+            "service_name": "Registration of employment seeker in Employment Exchange  for AADHAAR Based",
+            "appl_id": "18438968",
+            "appl_ref_no": "RTPS-REESA/2021/00701",
+            "no_of_attachment": 3,
+            "submission_mode_id": 112,
+            "submission_mode": "online",
+            "applied_by": "ashiqsanjanakhtar@gmail.com",
+            "submission_location": "District Employment Exchange- Guwahati",
+            "submission_date": { "$date": "2021-09-28T08:52:41Z" },
+            "payment_mode": null,
+            "reference_no": null,
+            "payment_date": null,
+            "amount": null,
+            "registration_id": "",
+            "base_service_id": "1859",
+            "version_no": 3,
+            "sub_version": 0,
+            "due_date": "2021-09-29",
+            "user_id": 16117231,
+            "user_name": "Ashiq Sanjan Akhtar",
+            "enclosure_details": [
+                { "4048": 7884 },
+                { "6883": 8058 },
+                { "7353": 8188 }
+            ],
+            "attribute_details": {
+                "applicant_name": "ASHIQ SANJAN AKHTAR",
+                "applicant_gender": "Male",
+                "mobile_number": "7002445424",
+                "e-mail": "ashiqsanjanakhtar@gmail.com",
+                "fathers_name": "SAHZAHAN ALI",
+                "caste": "General",
+                "mothers_name": "ALIYA BIBI",
+                "whether_ex-servicemen": "No",
+                "economically_weaker_section": "No",
+                "prominent_identification_mark": "NA",
+                "email_id": "ashiqsanjanakhtar@gmail.com",
+                "date_of_birth": "31/12/1996",
+                "fathers_name__guardians_name": "SAHZAHAN ALI",
+                "contact_no": "7002445424",
+                "unique_identification_no": "AS2520190005884",
+                "marital_status": "Single",
+                "gender_jobseeker": "Male",
+                "religion": "Islam",
+                "unique_identification_type": "Driving Licence",
+                "occupation": "Business",
+                "passport_photo": "/opt/app_data/rtps/prod/ApplicantImage/18/18590003/4836769/48367691632818104783_7328_132869.jpg",
+                "are_you_differently_abled__pwd": "No",
+                "highest_educational_level": "Graduate",
+                "declaration": "I agree to abide by the terms and conditions",
+                "signature": "/opt/app_data/rtps/prod/ApplicantImage/18/18590003/4836769/48367691632818104785_7328_132912.jpg",
+                "current_employment_status": "Self Employed",
+                "post_office_p": "SIMINA",
+                "residence": "Rural",
+                "pin_code_p": "781122",
+                "sub-division": "Kamrup Sadar",
+                "revenue_circle": "Palasbari",
+                "police_station_p": "PALASHBARI",
+                "district_p": "KAMRUP",
+                "vill_town_ward_city_p": "SIMINA",
+                "police_station": "PALASHBARI",
+                "same_as_permanent_address": "Yes",
+                "vill_town_ward_city": "SIMINA",
+                "post_office": "SIMINA",
+                "pin_code": "781122",
+                "district": "KAMRUP",
+                "employment_exchange": "District Employment Exchange- Guwahati",
+                "lgd_employment_exchange": "District Employment Exchange- Guwahati",
+                "renewal_date": "27/09/2024",
+                "aadhaar_number___virtual_id": "010030160pgeSNd15iPdFe5/JN/b4jFlU/4JK0JjEwAqaW5OgcAc00t2YRssBH1b0cUUe9y2",
+                "full_name_as_in_aadhaar_card": "ASHIQ SANJAN AKHTAR",
+                "state__only_domicile_of_assam_can_apply": "Assam",
+                "registration_no": "6495586/09/2021",
+                "registration_date": "28/09/2021",
+                "highest_examination_passed": "B. A. (Bachelor of Arts)",
+                "education_qualification": [
+                    {
+                        "date_of_passing": "",
+                        "course__major__subjects": "",
+                        "examination_passed": "B.A.(Bachelor of Arts)",
+                        "class__division": "",
+                        "board__university": "",
+                        "registration_no": "",
+                        "percentage_of_marks": "",
+                        "other_examination_name": "",
+                        "major__elective_subject": "",
+                        "subjects__other_subjects": "",
+                        "institution__school__college": ""
+                    }
+                ],
+                "qualification": [
+                    {
+                        "date_of_registration": "28/09/2021",
+                        "qualification": "B. A. (Bachelor of Arts)"
+                    }
+                ],
+                "other_qualification_trainings_courses": [
+                    {
+                        "date_of_passing": "",
+                        "duration_in_months": "",
+                        "certificate_name": "",
+                        "issued_by": ""
+                    }
+                ],
+                "skill_qualification": [
+                    {
+                        "sector": "",
+                        "course__job_role": "",
+                        "exam__diploma__certificate": "",
+                        "duration": "",
+                        "certificate_id": "",
+                        "engagement": ""
+                    }
+                ],
+                "work_experience": [
+                    {
+                        "from": "",
+                        "to": "",
+                        "industry__sector": "",
+                        "functional_area": "",
+                        "nature_of_work": "",
+                        "functional_roles": "",
+                        "other_functional_roles": "",
+                        "employer": "",
+                        "duration": "",
+                        "other_industry__sector": "",
+                        "other_functional_area": "",
+                        "highest_designation": "",
+                        "last_salary_drawn": ""
+                    }
+                ],
+                "languages_known": [
+                    {
+                        "options": "Read",
+                        "language": "ASSAMESE, HINDI, ENGLISH"
+                    }
+                ]
+            },
+            "submission_date_str": "28-09-2021",
+            "pit": 0,
+            "pbt": 0,
+            "dit": 1,
+            "dbt": 0,
+            "rit": 0,
+            "rbt": 0,
+            "execution_date_str": "28-09-2021",
+            "service_timeline": "1",
+            "appl_status": "D",
+            "district": "N/A",
+            "district_code": "0"
+        },
+        "execution_data": [
+            {
+                "task_details": {
+                    "task_name": "AUTO_DELIVER",
+                    "executed_time": { "$date": "2021-09-28T08:52:41Z" },
+                    "received_time": { "$date": "2021-09-28T08:52:41Z" }
+                },
+                "official_form_details": { "action": "Deliver" },
+                "applicant_task_details": null
+            }
+        ]
+    },
+    {
+        "_id": { "$oid": "619b336a26b374ce9ac41be0" },
+        "initiated_data": {
+            "department_id": "2193",
+            "department_name": "Department of Skill, Employment and Entrepreneurship",
+            "service_id": "18590003",
+            "service_name": "Registration of employment seeker in Employment Exchange  for AADHAAR Based",
+            "appl_id": "18438625",
+            "appl_ref_no": "RTPS-REESA/2021/00565",
+            "no_of_attachment": 7,
+            "submission_mode_id": 112,
+            "submission_mode": "online",
+            "applied_by": "jwngnar@gmail.com",
+            "submission_location": "Employment Exchange Office(Employment Exchange- Career Center- Employment Exchange- Biswanath Chariali )",
+            "submission_date": { "$date": "2021-09-28T09:18:16Z" },
+            "payment_mode": null,
+            "reference_no": null,
+            "payment_date": null,
+            "amount": null,
+            "registration_id": "",
+            "base_service_id": "1859",
+            "version_no": 3,
+            "sub_version": 0,
+            "due_date": "2021-09-29",
+            "user_id": 16125199,
+            "user_name": "JWNGSAR NARZARY",
+            "enclosure_details": [
+                { "4048": 7884 },
+                { "6883": 8058 },
+                { "7353": 8188 },
+                { "7617": 7618 },
+                { "7788": 7789 },
+                { "7878": 7879 },
+                { "8013": 7876 }
+            ],
+            "attribute_details": {
+                "applicant_name": "JWNGSAR NARZARY",
+                "applicant_gender": "Male",
+                "mobile_number": "9401370557",
+                "e-mail": "jwngnar@gmail.com",
+                "fathers_name": "SANTIRAM NARZRY",
+                "caste": "ST(P)",
+                "mothers_name": "NYOTI NARZARY",
+                "whether_ex-servicemen": "No",
+                "prominent_identification_mark": "Cut in right middle finger as Y type",
+                "email_id": "jwngnar@gmail.com",
+                "date_of_birth": "26/07/1990",
+                "fathers_name__guardians_name": "SANTIRAM NARZRY",
+                "contact_no": "9401370557",
+                "unique_identification_no": "HGC1347122",
+                "marital_status": "Single",
+                "occupation_type": "Private",
+                "gender_jobseeker": "Male",
+                "religion": "Christianity",
+                "unique_identification_type": "Voter's Identity Card",
+                "occupation": "Other",
+                "passport_photo": "/opt/app_data/rtps/prod/ApplicantImage/18/18590003/4836362/48363621632820350276_7328_132869.jpg",
+                "height__in_cm": "176.78",
+                "weight__kgs": "76",
+                "eye_sight": "6/6",
+                "chest__inch": "38",
+                "are_you_differently_abled__pwd": "No",
+                "highest_educational_level": "Post Graduate",
+                "declaration": "I agree to abide by the terms and conditions",
+                "signature": "/opt/app_data/rtps/prod/ApplicantImage/18/18590003/4836362/48363621632820350279_7328_132912.jpg",
+                "current_employment_status": "Employed - Fulltime Private",
+                "months": "10",
+                "years": "3",
+                "post_office_p": "PO Sonapur",
+                "residence": "Rural",
+                "pin_code_p": "784168",
+                "sub-division": "Gohpur",
+                "revenue_circle": "Gohpur",
+                "police_station_p": "PS Gohpur",
+                "district_p": "Biswanath",
+                "vill_town_ward_city_p": "Vill Sonapur",
+                "police_station": "PS Gohpur",
+                "same_as_permanent_address": "Yes",
+                "vill_town_ward_city": "Vill Sonapur",
+                "post_office": "PO Sonapur",
+                "pin_code": "784168",
+                "district": "Biswanath",
+                "job_preference_key_skills": "Adminstration",
+                "employment_exchange": "Employment Exchange- Biswanath Chariali",
+                "lgd_employment_exchange": "Employment Exchange- Biswanath Chariali",
+                "renewal_date": "27/09/2024",
+                "aadhaar_number___virtual_id": "01003016zzjLQhEMPdYpL+LDEXV5YQvs5QpYW8k+9t6upvkPmcyWBkrfgs6X51XYaWMmveoY",
+                "full_name_as_in_aadhaar_card": "JWNGSAR NARZARY",
+                "state__only_domicile_of_assam_can_apply": "Assam",
+                "registration_no": "2856708/09/2021",
+                "registration_date": "28/09/2021",
+                "highest_examination_passed": "M. A. (Master of Arts)",
+                "education_qualification": [
+                    {
+                        "date_of_passing": "05/10/2015",
+                        "course__major__subjects": "",
+                        "examination_passed": "2120",
+                        "class__division": "2nd",
+                        "board__university": "Bodoland University",
+                        "registration_no": "BUP0187/2013",
+                        "percentage_of_marks": "53",
+                        "other_examination_name": "",
+                        "major__elective_subject": "English",
+                        "subjects__other_subjects": "English",
+                        "institution__school__college": "Bodoland University"
+                    }
+                ],
+                "qualification": [
+                    {
+                        "date_of_registration": "28/09/2021",
+                        "qualification": ""
+                    }
+                ],
+                "other_qualification_trainings_courses": [
+                    {
+                        "date_of_passing": "26/11/2013",
+                        "duration_in_months": "12 Month",
+                        "certificate_name": "Advance Diploma in Computer Application",
+                        "issued_by": "Manipal Institute of Computer Education"
+                    }
+                ],
+                "skill_qualification": [
+                    {
+                        "sector": "",
+                        "course__job_role": "",
+                        "exam__diploma__certificate": "",
+                        "duration": "",
+                        "certificate_id": "",
+                        "engagement": ""
+                    }
+                ],
+                "work_experience": [
+                    {
+                        "from": "23/11/2017",
+                        "to": "28/09/2021",
+                        "industry__sector": "Other",
+                        "functional_area": "Administrative",
+                        "nature_of_work": "Full time",
+                        "functional_roles": "Administrator",
+                        "other_functional_roles": "",
+                        "employer": "TK Engineering Consortium Pvt Ltd",
+                        "duration": "46",
+                        "other_industry__sector": "Constructions",
+                        "other_functional_area": "",
+                        "highest_designation": "Executive Hr & Admin",
+                        "last_salary_drawn": "25000"
+                    }
+                ],
+                "languages_known": [
+                    { "options": "Read", "language": "English" },
+                    { "options": "Read", "language": "Hindi" },
+                    { "options": "Read", "language": "Boro" },
+                    { "options": "Speak", "language": "Assamese" }
+                ]
+            },
+            "submission_date_str": "28-09-2021",
+            "pit": 0,
+            "pbt": 0,
+            "dit": 1,
+            "dbt": 0,
+            "rit": 0,
+            "rbt": 0,
+            "execution_date_str": "28-09-2021",
+            "service_timeline": "1",
+            "appl_status": "D",
+            "district": "N/A",
+            "district_code": "0"
+        },
+        "execution_data": [
+            {
+                "task_details": {
+                    "task_name": "AUTO_DELIVER",
+                    "executed_time": { "$date": "2021-09-28T09:18:16Z" },
+                    "received_time": { "$date": "2021-09-28T09:18:16Z" }
+                },
+                "official_form_details": { "action": "Deliver" },
+                "applicant_task_details": null
+            }
+        ]
+    }
+]

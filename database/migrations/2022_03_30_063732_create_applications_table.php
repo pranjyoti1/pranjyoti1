@@ -29,7 +29,7 @@ class CreateApplicationsTable extends Migration
 
             $table->integer('MaritalStatus');
             $table->integer('ReligionID');
-            $table->integer('CasteCode');
+            $table->string('CasteCode');
 
             $table->integer('UIDType');
             $table->string('UIDNumber');

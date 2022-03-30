@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CraeteCastesTable extends Migration
+class CreateMaritalStatusesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,10 @@ class CraeteCastesTable extends Migration
      */
     public function up()
     {
-        Schema::create('castes', function (Blueprint $table) {
+        Schema::create('marital__statuses', function (Blueprint $table) {
             $table->id();
-            $table->integer('caste_id')->unique();
-            $table->string('caste_description');
+            $table->integer('marital_status_id');
+            $table->string('description');
             $table->timestamps();
         });
     }
@@ -28,7 +28,6 @@ class CraeteCastesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('castes');
-
+        Schema::dropIfExists('marital__statuses');
     }
 }

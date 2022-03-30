@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CraeteEmploymentStatusTable extends Migration
+class CreateTerritoryTypesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,10 @@ class CraeteEmploymentStatusTable extends Migration
      */
     public function up()
     {
-        Schema::create('employment_status', function (Blueprint $table) {
+        Schema::create('territory_types', function (Blueprint $table) {
             $table->id();
-            $table->integer('emp_status_id');
-            $table->string('emp_status_description');
+            $table->string('territory_id');
+            $table->string('description');
             $table->timestamps();
         });
     }
@@ -28,7 +28,6 @@ class CraeteEmploymentStatusTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('employment_status');
-
+        Schema::dropIfExists('territory_types');
     }
 }
