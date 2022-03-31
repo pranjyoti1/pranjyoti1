@@ -15,7 +15,7 @@ class CreateApplicationsTable extends Migration
     {
         Schema::create('applications', function (Blueprint $table) {
             $table->id();
-            $table->string('ApplicationFormID')->unique();
+            $table->integer('ApplicationFormID')->unique();
             $table->string('FirstName');
             $table->string('DOB');
             $table->string('GuardianName');

@@ -90,7 +90,7 @@ class GetAPIDataController extends Controller
 public function ncsdata(){
     $data=[];
     $address=[];
-    $users = Application::all();
+    $users = Application::get();
     // dd($users);
 foreach($users as $user){
     $addresses=Address::where('ApplicationFormID',$user->ApplicationFormID)->first();
@@ -98,11 +98,51 @@ foreach($users as $user){
     $data['FirstName']=$user->FirstName;
     $data['Addresses']=$address;
     // $address['Address1']=$addresses->Address1;
-    array_push($data);
+    // array_push($data);
 }
-
-return Response::json($data);
+// return $data;
+return Response::json($users);
     
+}
+public function getApplications(){
+
+    $applications = Application::with('addresses')->get();
+   
+    $applications = $applications->map(function($f){
+     
+        $address= Address::select('Address1','State','District','AddressType','AddressSubType','TerritoryType','Pincode')->where('ApplicationFormID',$f->ApplicationFormID)->first() ;
+$uid=[
+    'UIDType'=>$f->UIDType,
+    'UIDNumber'=>$f->UIDNumber,
+];
+    $application =  [
+
+          "ApplicationFormID" => $f->ApplicationFormID,
+           "FirstName" => $f->FirstName,
+           'DOB'=> $f->DOB,
+           'GuardianName'=> $f->GuardianName,
+           'MobileNo'=> $f->MobileNo,
+           'Gender'=> $f->Gender,
+           'EmploymentStatus'=> $f->EmploymentStatus,
+           'PrimaryLanguage'=> $f->PrimaryLanguage, 
+           "Addresses" =>[$address->toArray()],
+    
+           'HighestEducation'=>$f->HighestEducation,
+           'Educations'=>[],
+           "Certificates"=>[],
+	        "Skills"=> [],
+           'MaritalStatus'=>$f->MaritalStatus,
+           'ReligionID'=>$f->ReligionID,
+           'CasteCode'=>$f->CasteCode,
+           'UIDs'=>$uid,
+          
+    ];
+    // array_push($addresses, $application);
+    return $application;
+
+    });
+
+    return $applications->toJson();
 }
 
     public function index()

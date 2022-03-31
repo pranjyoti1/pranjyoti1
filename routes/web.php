@@ -19,4 +19,6 @@ Route::get('/', function () {
 });
 Route::get('/getdata',[GetAPIDataController::class, 'getData']);
 Route::get('/ncsdata',[GetAPIDataController::class, 'ncsdata']);
+Route::get('/getApplications',[GetAPIDataController::class, 'getApplications']);
+
 

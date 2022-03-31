@@ -19,4 +19,8 @@ class Address extends Model
        'Pincode',
     
     ];
+    public function application()
+{
+    return $this->belongsTo('App\Models\Application');
+}
 }
